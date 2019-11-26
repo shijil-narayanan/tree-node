@@ -1,0 +1,32 @@
+.tree-container {
+  text-align: center;
+  min-width: 25%;
+  background: green;
+  height: 100vh;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.welcome-message-container{
+  display: inline-block;
+  width: 75%;
+  text-align: center;
+}
+
+.tree-holder{
+  padding:20px
+}
+
+.welcome-text{
+  padding-top:50px;
+}
+
+.wl-text{
+  font-weight:600;
+  font-size:26px;
+}
+
+.wl-instruction{
+  padding-top: 5px;
+  font-style: italic;
+}

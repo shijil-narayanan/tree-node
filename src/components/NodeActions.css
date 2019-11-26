@@ -1,0 +1,8 @@
+.action-icon{
+    margin-left: 15px;
+    cursor:pointer;
+}
+
+.node-actions{
+    display: inline-block;
+}

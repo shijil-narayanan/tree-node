@@ -1,0 +1,19 @@
+.edit-node-input{
+    display: inline-block;
+    width:150px;
+}
+.node-name{
+ display: inline-block;
+}
+
+.fas{
+    cursor:pointer;
+}
+.add-node{
+    display:block;
+}
+
+.expand-collapse{
+    margin-right:5px;
+    font-size:12px;
+}
